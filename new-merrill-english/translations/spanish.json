@@ -1,0 +1,172 @@
+{
+  "navLinks" : [
+    {
+    
+      "title": "Cómo funciona",
+      "url": "/es/how-it-works",
+      "key": "how-it-works"
+      
+    },
+    {
+      "title": "Precios",
+      "url": "/es/pricing",
+      "key": "pricing"
+     
+    },
+    {
+      "title": "Blog",
+      "url": "/es/blog",
+      "key": "blog"
+   
+    }
+  ],
+    "loginButton": "Acceso",
+
+    "homePage" : {
+      "title": "Aprenda inglés fácilmente | Merrill English",
+      "heroText": "Aprenda inglés fácilmente con Merrill English.",
+      "heroButtonText": "¡Empiece ya!",
+      "heroButtonUrl": "es/how-it-works",
+      "homecard-1": {
+        "title": "Clases particulares",
+        "text": "Aproveche las lecciones individualizadas adaptadas a sus necesidades."
+      },
+      "homecard-2": {
+        "title": "Clases pequeñas",
+        "text": "Las clases constan de veinte estudiantes o menos para darles a nuestros estudiantes la oportunidad de participar sin quedarse atrás."
+      },
+      "homecard-3": {
+        "title": "Hablantes nativos de inglés",
+        "text": "Todos los profesores de inglés de Merrill están capacitados según los estándares profesionales y son hablantes nativos de inglés."
+      },
+      "feature-1": {
+        "title": "Sigue aprendiendo donde quiera que vayas.",
+        "feature": "Con la plataforma de aprendizaje de inglés Merrill, puedes participar en clases desde todos tus dispositivos. ¡Simplemente inicie sesión para unirse a clases grupales y clases particulares con facilidad!"
+      },
+      "feature-2": {
+        "title": "Aprenda a tu propio ritmo.",
+        "feature": "Ofrecemos cursos de inglés para estudiantes de todos los niveles y estilos de vida. No importa lo ocupado que estés, nuestros cursos de inglés interactivos pueden adaptarse a cualquier horario."
+      },
+      "callToAction":{
+        "title": "Empiece hoy.",
+        "cta": "Regístrese para comenzar su prueba de 7 días sin riesgos.",
+        "ctaButton": "¡Empiece ya!",
+        "ctaUrl": "/es/how-it-works"
+      }
+    },
+    "howItWorksPage": {
+      "title": "Aprender en línea con Merrill English | Merrill English",
+      "subheading-1": "Aprender en línea con Merrill English",
+      "homecard-1": {
+        "title": "Práctica conversacional",
+        "text": "Desarrolle sus habilidades en inglés practicando con hablantes nativos en cada clase."
+      },
+      "homecard-2": {
+        "title": "Comentarios hechos solo para usted",
+        "text": "Obtenga informes de progreso mensuales de sus maestros para que sepa el material que ha dominado y dónde necesita más práctica."
+      },
+      "homecard-3": {
+        "title": "Aprenda inglés estadounidense",
+        "text": "Aprende el dialecto del inglés hablado por más de 331 millones de personas en todo el mundo."
+      },
+      "subheading-2": "Cómo empezar a aprender",
+      "slidesList": {
+        "slide1":{
+          "step": "Paso 1",
+          "legend": "Regístrese"
+        },
+        "slide2":{
+          "step": "Paso 2",
+          "legend": "Prueba de nivel"
+        },
+        "slide3":{
+          "step": "Paso 3",
+          "legend": "Comienza a aprender"
+        }
+      },
+      "callToAction":{
+        "cta": "¡Empiece a aprender inglés hoy!",
+        "ctaButton": "¡Empiece ya!",
+        "ctaUrl": "/en/pricing"
+      }
+    },
+    "pricingPage": {
+      "title": "Precios de clases de inglés en línea | Merrill English",
+      "header": "Elige tu camino hacia el éxito.",
+      "subheading-1": "Clases grupales",
+      "gCard-1": {
+        "frequency": "4 clases por mes",
+        "price": "$55",
+        "perClass": "$13.75 / clase"
+      },
+      "gCard-2": {
+        "frequency": "12 clases por mes",
+        "price": "$140",
+        "perClass": "$11.66 / clase"
+      },
+      "gCard-3": {
+        "frequency": "20 clases por mes",
+        "price": "$195",
+        "perClass": "$9.75 / clase"
+      },
+      "gCard-4": {
+        "frequency": "40 clases por mes",
+        "price": "$360",
+        "perClass": "$9.00 / clase"
+      },
+      "pCard-1": {
+        "frequency": "4 clases por mes",
+        "price": "$130",
+        "perClass": "$32.50 / clase"
+      },
+      "pCard-2": {
+        "frequency": "12 clases por mes",
+        "price": "$300",
+        "perClass": "$25.00 / clase"
+      },
+      "pCard-3": {
+        "frequency": "20 clases por mes",
+        "price": "$420",
+        "perClass": "$21.00 / clase"
+      },
+      "pCard-4": {
+        "frequency": "40 clases por mes",
+        "price": "$750",
+        "perClass": "$18.75 / clase"
+      },
+      "buyNowButton": "¡Compre ahora!",
+      "freeTrialButton": "Comience la prueba gratuita",
+      "subheading-3": "Cómo funciona la prueba gratuita",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/merrill-english-3df11.appspot.com/o/SiteAssets%2FSpanishTrialCard.png?alt=media&token=23f72a26-4e79-4c48-81a8-29d2b2340f4d"
+    },
+    "blogs": {
+      "title": "Publicaciones sobre aprender inglés en línea | Merrill English",
+      "readButton": "Lea más"
+    },
+    "footerContent": {
+      "footerNavLinks": [
+        {
+          "title":"Inicio",
+          "url":"/es"
+        },
+        {
+          "title":"Cómo funciona",
+           "url":"/es/how-it-works"
+        },
+        {
+          "title":"Precios",
+           "url":"/es/pricing"
+        },
+        {
+         "title": "Blog",
+         "url":"/es/blog"},
+        {
+          "title":"Acceso",
+          "url":"/es/login"
+        }
+      ],
+      "social": "Visítenos en las redes sociales."
+    },
+    "backToBlogs": "Volver al blog"
+
+}

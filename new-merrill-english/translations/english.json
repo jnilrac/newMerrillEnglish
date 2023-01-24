@@ -1,0 +1,172 @@
+{
+    "navLinks" : [
+        {
+        
+          "title": "How it works",
+          "url": "/en/how-it-works",
+          "key": "how-it-works"
+        
+        },
+        {
+          "title": "Pricing",
+          "url": "/en/pricing",
+          "key": "pricing"
+        
+        },
+        {
+          "title": "Blog",
+          "url": "/en/blog",
+          "key": "blog"
+        
+        }
+      ],
+      "loginButton": "Login",
+
+      "homePage" : {
+        "title": "Learn English the Easy Way | Merrill English",
+        "heroText": "Learn English the easy way with Merrill English.",
+        "heroButtonText": "Get Started",
+        "heroButtonUrl": "en/how-it-works",
+        "homecard-1": {
+          "title": "1-on-1 Classes",
+          "text": "Benefit from individualized lessons tailored to your language learning needs."
+        },
+        "homecard-2": {
+          "title": "Small Class Sizes",
+          "text": "Classes consist of twenty students or less to give our students the chance to engage without being left behind."
+        },
+        "homecard-3": {
+          "title": "Native English Speakers",
+          "text": "All Merrill English teachers are trained to professional standards and are true native level English speakers."
+        },
+        "feature-1": {
+          "title": "Keep learning wherever you go.",
+          "feature": "With the Merrill English learning platform, you can participate in classes from all your devices . Just log in to join group classes and 1-on-1 sessions with ease!"
+        },
+        "feature-2": {
+          "title": "Learn at your own pace.",
+          "feature": "We offer English courses for students of all levels and lifestyles. No matter how busy you are, our interactive English courses can fit into any schedule. "
+        },
+        "callToAction":{
+          "title": "Get started today.",
+          "cta": "Sign up to start your risk-free 7-day trial",
+          "ctaButton": "Get Started Now",
+          "ctaUrl": "/en/how-it-works"
+        }
+      },
+      "howItWorksPage": {
+        "title": "How to Learn English Online | Merrill English",
+        "subheading-1": "Learning online with Merrill English",
+        "homecard-1": {
+          "title": "Conversational Practice",
+          "text": "Build your English skills by practicing with native speakers every class."
+        },
+        "homecard-2": {
+          "title": "Feedback made just for you",
+          "text": "Get monthly progress reports from your teachers so you know the material you have mastered as well as where you need more practice."
+        },
+        "homecard-3": {
+          "title": "Learn American English",
+          "text": "Learn the dialect of English spoken by more than 331 milion people around the world."
+        },
+        "subheading-2": "How to get started learning",
+        "slidesList": {
+          "slide1":{
+            "step": "Step 1",
+            "legend": "Sign up"
+          },
+          "slide2":{
+            "step": "Step 2",
+            "legend": "Placement Test"
+          },
+          "slide3":{
+            "step": "Step 3",
+            "legend": "Start Learning"
+          }
+        },
+        "callToAction":{
+          "cta": "Start learning English today!",
+          "ctaButton": "Get Started Now",
+          "ctaUrl": "/en/pricing"
+        }
+      },
+      "pricingPage": {
+        "title": "Online English Class Pricing | Merrill English",
+        "header": "Choose your path to success.",
+        "subheading-1": "Group Classes",
+        "gCard-1": {
+          "frequency": "4 Classes per Month",
+          "price": "$55",
+          "perClass": "$13.75 / class"
+        },
+        "gCard-2": {
+          "frequency": "12 Classes per Month",
+          "price": "$140",
+          "perClass": "$11.66 / class"
+        },
+        "gCard-3": {
+          "frequency": "20 Classes per Month",
+          "price": "$195",
+          "perClass": "$9.75 / class"
+        },
+        "gCard-4": {
+          "frequency": "40 Classes per Month",
+          "price": "$360",
+          "perClass": "$9.00 / class"
+        },
+        "pCard-1": {
+          "frequency": "4 Classes per Month",
+          "price": "$130",
+          "perClass": "$32.50 / class"
+        },
+        "pCard-2": {
+          "frequency": "12 Classes per Month",
+          "price": "$300",
+          "perClass": "$25.00 / class"
+        },
+        "pCard-3": {
+          "frequency": "20 Classes per Month",
+          "price": "$420",
+          "perClass": "$21.00 / class"
+        },
+        "pCard-4": {
+          "frequency": "40 Classes per Month",
+          "price": "$750",
+          "perClass": "$18.75 / class"
+        },
+        "buyNowButton": "Buy Now",
+        "freeTrialButton": "Start Free Trial",
+        "subheading-3": "How the Free Trial Works",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/merrill-english-3df11.appspot.com/o/SiteAssets%2FDesktop%20%20TrialCard%201.png?alt=media&token=f42a30a9-2676-4933-83e5-fa86b6eabe77"
+      },
+      "blogs": {
+        "title": "Blog Posts About Learning English Online | Merrill English",
+        "readButton": "Read"
+      },
+      "footerContent": {
+        "footerNavLinks": [
+          {
+            "title":"Home",
+            "url":"/en"
+          },
+          {
+            "title":"How it works",
+             "url":"/en/how-it-works"
+          },
+          {
+            "title":"Pricing",
+             "url":"/en/pricing"
+          },
+          {
+           "title": "Blog",
+           "url":"/en/blog"},
+          {
+            "title":"Login",
+            "url":"/en/login"
+          }
+        ],
+        "social": "Check us out on social media."
+      },
+      "backToBlogs": "Back to blog"
+
+}
