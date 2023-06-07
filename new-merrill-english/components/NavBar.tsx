@@ -110,7 +110,7 @@ export const NavBar = ({logoUrl, navLinks, loginUrl, selectedLang, loginButton}:
                     <div className="mt-2">
                     <LanguageButton selectedLang={selectedLang} langOptions={langOptions} />
                     </div>
-                    <a href="http://school.merrillenglish.com/login/index.php">
+                    <a href="#">
                                             
                         <PrimaryOutlineButton
                         strokeColor="border-blue-3"
@@ -151,7 +151,7 @@ export const NavBar = ({logoUrl, navLinks, loginUrl, selectedLang, loginButton}:
                                     </div>
                                 </div>
                                 <div className="self-center">
-                                     <a href="http://school.merrillenglish.com/login/index.php">
+                                     <a href="#">
                                         
                                             <PrimaryOutlineButton
                                             strokeColor="border-blue-3"
